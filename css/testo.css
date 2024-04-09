@@ -1,0 +1,233 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #333;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    height: 40px; /* Adjust height as needed */
+    margin-left: 20px;
+}
+
+.nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.nav-list li {
+    margin-right: 20px;
+}
+
+.nav-list li:last-child {
+    margin-right: 0;
+}
+
+.nav-list li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.nav-list li a:hover {
+    background-color: #555;
+}
+
+.social-linl {
+    margin-right: 20px;
+}
+
+.social-icol {
+    height: 30px; /* Adjust height as needed */
+    vertical-align: middle;
+}
+body{
+    background-color: rgb(49, 54, 63)
+}
+.card {
+    width: 229px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    background-color: rgb(180, 180, 184);
+
+     justify-content: space-between;
+     align-items: center;
+
+    margin: 0 auto;
+
+
+}
+.card img {
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 240px;
+}
+.card h2 {
+    margin-top: 0;
+}
+.card p {
+    margin-bottom: 10px;
+}
+.card button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-size: italic;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.card button:hover {
+    background-color: #0056b3;
+}
+.wood{
+    font-size: italic;
+    border-bottom: 8px dashed orange;
+    width: 300px;
+    text-align: center;
+    position: absolute;
+    left: 37%;
+    color: white;
+
+}   
+.roop{
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 35%;
+    left: 23%;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    margin: 160px;
+    position: absolute;
+    top: 43%;
+    left:-4%;
+}
+.card {
+    width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0 30px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+
+}
+.containere{
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    margin: 160px;
+    position: absolute;
+    top: 130%;
+    left:-4%;
+}
+.containeres{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    margin: 160px;
+    position: absolute;
+    top: 223%;
+    left:10%;
+}
+.btn{
+    position: absolute;
+    top: 345%;
+    left: 45%;
+}
+.btn{
+    font-weight: 400;
+    text-transform: uppercase;
+    border-radius: 10px;
+    font-family: 'Montserrat',sans-serif;
+}
+.btn-xl{
+    padding: 1rem 2rem;
+}
+.btn-primary{
+    background-color:#EEEEEE;
+
+}
+.btn-primary:hover {
+    background-color: #FF8400;
+
+
+}
+.first{
+    background-color:rgb(245, 247, 248);    
+     position: absolute;
+    top: 353%;
+    background-size: 
+}
+.wro{
+    position: absolute;
+    top: 12%;
+    left: 43%;
+}
+.wrt{
+    position: absolute;
+    top: 37%;
+    left: 46%;
+}
+.social-link {
+    margin-right: 20px;
+}
+
+.social-icon {
+    height: 25px; /* Adjust height as needed */
+    vertical-align: middle;
+    position: absolute;
+    top: 76%;
+    left: 45%;
+}
+.social-linke {
+    margin-right: 20px;
+}
+.social-icone {
+    height: 25px; /* Adjust height as needed */
+    vertical-align: middle;
+    position: absolute;
+    top: 76%;
+    left: 49%;
+}
+.social-linkes {
+    margin-right: 20px;
+}
+.social-icones {
+    height: 25px; /* Adjust height as needed */
+    vertical-align: middle;
+    position: absolute;
+    top: 76%;
+    left: 53%;
+}
+.moon{
+    color: rgb(193, 216, 195);
+}
+.mino{
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 58%;
+    left: 22%;
+}

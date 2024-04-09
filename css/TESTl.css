@@ -1,0 +1,171 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #333;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    height: 40px; /* Adjust height as needed */
+    margin-left: 20px;
+}
+
+.nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.nav-list li {
+    margin-right: 20px;
+}
+
+.nav-list li:last-child {
+    margin-right: 0;
+}
+
+.nav-list li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.nav-list li a:hover {
+    background-color: #555;
+}
+
+.social-link {
+    margin-right: 20px;
+}
+
+.social-icon {
+    height: 30px; /* Adjust height as needed */
+    vertical-align: middle;
+}
+
+body{
+   background-image: url(https://color-hex.org/colors/31363f.png);
+    background-size: cover;
+}
+.rot{
+    color: white;   
+    font-family: italic;
+    position: absolute;
+    top:17%;
+    left: 31%;
+    border-bottom: 8px dashed orange;
+    font-size: 58px;
+}
+.wop{
+    color: white;
+    font-family: initial;
+    position: absolute;
+    top: 30%;
+    left: 37%;
+}
+.roop{
+     color: pink;
+     text-align: center;
+     position: absolute;
+     top: 37%;
+     left: 18%;
+    font-family:italic;
+
+}
+.fr{
+    position: absolute;
+    top: 291%;
+    left:17%;
+}
+.fro{
+     position: absolute;
+    top: 72%;
+    left:17%;
+}
+.frn{
+     position: absolute;
+    top: 210%;
+    left:5%;
+}
+.frp{
+     position: absolute;
+    top: 222%;
+    left:756px;
+}
+.frc{
+     position: absolute;
+    top: 261%;
+    left:756px;
+}
+.xd{
+    position: absolute;
+    top: 210%;
+    left:54%;
+}
+.xm{
+    position: absolute;
+    top: 457%;
+    left: 50%;
+}
+.xl{
+    position: absolute;
+    top: 446%;
+    left: 10%;
+}
+img:hover{
+    transform: scale(1.02);
+    transition: all 1s;
+    color: rgb(0,0,0);
+}
+.first{
+    background-color:rgb(245, 247, 248);    
+     position: absolute;
+    top: 550%;
+    background-size: 
+}
+.wro{
+    position: absolute;
+    top: 12%;
+    left: 43%;
+}
+.wrt{
+    position: absolute;
+    top: 37%;
+    left: 46%;
+}
+
+.social-icon {
+    height: 25px; /* Adjust height as needed */
+    vertical-align: middle;
+    position: absolute;
+    top: 76%;
+    left: 45%;
+}
+
+.social-icone {
+    height: 25px; /* Adjust height as needed */
+    vertical-align: middle;
+    position: absolute;
+    top: 76%;
+    left: 49%;
+}
+.social-linkes {
+    margin-right: 20px;
+}
+.social-icones {
+    height: 25px; /* Adjust height as needed */
+    vertical-align: middle;
+    position: absolute;
+    top: 76%;
+    left: 53%;
+}
